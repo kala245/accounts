@@ -18,7 +18,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class AccountsApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hiiiiiii");
+		System.out.println("Hiiiiiii1111");
 		SpringApplication.run(AccountsApplication.class, args);
 	}
 
